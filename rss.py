@@ -9,7 +9,7 @@ from apscheduler.schedulers.background import BackgroundScheduler
 
 api_id = "1782857"   # Get it from my.telegram.org
 api_hash = "f222a50cca92872dc48a8e896ffafa8f"   # Get it from my.telegram.org
-feed_url = "https://yts.ag/rss/0/720p/all/0"   # RSS Feed URL of the site.
+feed_url = "https://yts.mx/rss"   # RSS Feed URL of the site.
 bot_token = "1692419138:AAELm1CMvwiKaw6HbpobTHcL0TTE6Fs02D4"   # Get it by creating a bot on https://t.me/botfather
 log_channel = "-1001485844392"   # Telegram Channel ID where the bot is added and have write permission. You can use group ID too.
 check_interval = 5   # Check Interval in seconds.  
